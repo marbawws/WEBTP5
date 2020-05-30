@@ -1,17 +1,17 @@
 <?php $titre = 'Le Blogue du prof version 1.0.0.1'; ?>
 
 <ul>
-    <li>André Pilon</li>
+    <li>Marwane Rezgui</li>
 
     <li>420-4A4 MO Web et Bases de données</li>
     <li>Hiver 2020, Collège Montmorency</li>
 </ul>
-<h3>Le Blogue du prof</h3>
+<h3>Le site de Marwane Rezgui</h3>
 <ul>
-    <li>L'application "Le Blogue du prof" permet de composer et de
-        diffuser des articles sur des sujets variés.</li>
-    <li>La page d'Accueil présente la liste des titres des articles
-        avec la date et le nom de l'auteur :</li>
+    <li>L'application "Le site de Marwane" permet de composer et de
+        diffuser des transactions.</li>
+    <li>La page d'Accueil présente la liste des dates des transactions
+        et le nom de l'auteur :</li>
     <ul>
         <li>Cette version n'offre pas encore la gestion des auteurs.
             Les auteurs doivent être entrées manuellement dans la base de données.<br>
